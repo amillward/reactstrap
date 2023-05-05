@@ -137,6 +137,13 @@
 
 
 
+## [9.1.10](https://github.com/reactstrap/reactstrap/compare/v9.1.9...v9.1.10) (2023-05-05)
+
+
+### Bug Fixes
+
+* properly pass in `isOpen` in modal test ([#2745](https://github.com/reactstrap/reactstrap/issues/2745)) ([8cb0515](https://github.com/reactstrap/reactstrap/commit/8cb051522ddfad48c08651604744caea25b5e68e))
+
 ## [9.1.9](https://github.com/reactstrap/reactstrap/compare/v9.1.8...v9.1.9) (2023-04-11)
 
 
